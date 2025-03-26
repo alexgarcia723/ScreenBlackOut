@@ -24,5 +24,6 @@
 
         private Button button1;
         private Button btnToggleBlackout;
+        private CheckedListBox clbScreens;
     }
 }
